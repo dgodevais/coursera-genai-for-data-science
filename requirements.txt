@@ -1,0 +1,13 @@
+accelerate==0.30.1
+auto-gptq==0.7.1
+bitsandbytes==0.41.3
+datasets==2.19.1
+ipywidgets==8.1.2
+jupyterlab==4.2.1
+optimum==1.20.0
+peft==0.11.1
+pympler==1.0.1
+python-dotenv==1.0.1
+quanto==0.2.0
+sentencepiece==0.2.0
+transformers==4.41.1
